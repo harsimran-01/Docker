@@ -10,7 +10,9 @@ This project demonstrates a complete **Docker-based development environment** us
 
 ## 📸 Docker Volumes (Data Persistence)
 
-![Docker Volumes](./assets/docker-volumes.png)
+![Docker Volumes](./assets/docker containers)
+![Docker Volumes](./assets/docker containers)
+![Docker Volumes](./assets/docker containers)
 
 > This shows Docker volumes used to persist MongoDB data even after container restarts.
 
